@@ -31,14 +31,15 @@ cd to project directory
 export FLASK_APP=flaskr
 
 flask init-db
-When the above command doesn't work:
+When the above command doesn't work, use the below command:
 python -m flask init-db
 
 # Run  
 To run just do the following
 
 flask run
-
+When the above command doesn't work, use the below command:
+python -m flask run
 ## Application Overview
 <img src="/doc/ApplicationStructure.png" />
 
