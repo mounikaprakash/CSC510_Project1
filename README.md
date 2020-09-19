@@ -31,6 +31,8 @@ cd to project directory
 export FLASK_APP=flaskr
 
 flask init-db
+When the above command doesn't work:
+python -m flask init-db
 
 # Run  
 To run just do the following
