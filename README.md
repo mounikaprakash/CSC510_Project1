@@ -23,6 +23,8 @@
 ## Installation Guide
 # For Mac/Ubuntu  
 Install Flask using pip - pip/pip3 install flask
+When the above command results in any environmental errors use the below command:
+pip/pip3 install flask --user
 
 cd to project directory
 
